@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=100)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Heeseon's+GitHub!👋)](https://git.io/typing-svg)
 
 ## 🌟 About Me 🌟
@@ -6,9 +6,9 @@
 - 🎓 **학위:**  2023.08 졸업
 - 🏆 **수료:** 코리아 IT 아카데미 AI 기반 챗봇 및 OCR 개발 전문가 과정 (2024.03.08 - 2024.09.05)
 
-<div style="text-align: center;">
-  <a href="https://glowing-hardcover-f38.notion.site/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e" style="display: inline-block;"><img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/></a> 
-  <a href="https://hi-nomad.tistory.com/" style="display: inline-block;"><img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=tistory&logoColor=white"/></a>
+<div align="center">
+  <a href="https://glowing-hardcover-f38.notion.site/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e"><img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/></a> 
+  <a href="https://hi-nomad.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=tistory&logoColor=white"/></a>
 </div>
 
 </br>
@@ -33,7 +33,7 @@
 
 ## 📊 My Github Stats 📊
 
-<div style="display: flex; justify-content: space-around;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heeseon06&theme=transparent&show_icons=true&&hide_border=true" alt="GitHub stats" style="width: 50%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeseon06&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" style="width: 45%;">
 </div>
