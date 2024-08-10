@@ -7,8 +7,8 @@
 - 🏆 **수료:** 코리아 IT 아카데미 AI 기반 챗봇 및 OCR 개발 전문가 과정 (2024.03.08 - 2024.09.05)
 
 <div style="text-align: center;">
-  <a href="https://glowing-hardcover-f38.notion.site/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e"><img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/></a> 
-  <a href="https://hi-nomad.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=tistory&logoColor=white"/></a>
+  <a href="https://glowing-hardcover-f38.notion.site/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e" style="display: inline-block;"><img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/></a> 
+  <a href="https://hi-nomad.tistory.com/" style="display: inline-block;"><img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=tistory&logoColor=white"/></a>
 </div>
 
 </br>
