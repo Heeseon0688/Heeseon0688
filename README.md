@@ -54,9 +54,9 @@
 
 </br>
 
-## 📝 논문·저서 📝
+<!-- ## 📝 논문·저서 📝 -->
 
-- [논문](논문 링크) (2023)
+<!-- - [논문](논문 링크) (2023) -->
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=80&section=footer)
