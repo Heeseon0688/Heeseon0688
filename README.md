@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://hi-nomad.tistory.com/"><img src="https://img.shields.io/badge/Tistory-블로그-000000?style=round-square&logo=tistory&logoColor=white"/></a>
-  <a href="https://glowing-hardcover-f38.notion.site/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e"><img src="https://img.shields.io/badge/Notion-노션-000000?style=round-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://fortunate-citipati-dd4.notion.site/c151e657e352446fb3afc8809c69d91a"><img src="https://img.shields.io/badge/Notion-노션-000000?style=round-square&logo=Notion&logoColor=white"/></a>
 </div>
 
 </br>
