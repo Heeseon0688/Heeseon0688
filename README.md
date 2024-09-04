@@ -44,7 +44,7 @@
 
 ## 🤖 주요 프로젝트 🤖
 
-- **[Motorshot](https://github.com/Heeseon06/Motorshot_frontend_Project)** 
+- **[Motorshot](https://github.com/Heeseon06/Motorshot_frontend_Project)**
   오토바이 헬멧 미착용 및 위협운전 탐지 컴퓨터비전 프로젝트 (2024.09)
 - **[의사소통 AI챗봇](https://github.com/Heeseon06/DoctorChat_frontend_Project)**  
   바쁜 일상 속에서 병원을 방문할 시간이 없거나, 어느 병원에 가야 할지 고민하는 사용자들을 위한 의료 상담 챗봇 (2024.08)
