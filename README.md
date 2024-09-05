@@ -51,7 +51,7 @@
 - **[PLAN UP](https://github.com/Heeseon06/PlanUP_frontend_Project)**  
   취업 준비생을 위한 일정관리 애플리케이션 (2024.07)  
   - 고용노동부 공공데이터 공모전 참가 - 서비스 개발부문 1차 합격
-  - **Google Play 다운로드 링크:** [플랜업( PLAN UP )](https://play.google.com/store/apps/details?id=com.PlanUP&pli=1)
+  - **Google Play 다운로드 링크:** **[플랜업( PLAN UP )](https://play.google.com/store/apps/details?id=com.PlanUP&pli=1)**
 - **[Mind Glow](https://github.com/Heeseon06/MindGlow_Project)**  
   서울시 정신건강 복지 센터 안내 및 상담사와 실시간 채팅 플랫폼 서비스 (2024.05)
 
