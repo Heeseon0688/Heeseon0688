@@ -42,7 +42,7 @@
 
 </br>
 
-## 🤖 주요 프로젝트 🤖
+## 💻 주요 프로젝트 💻
 
 - **[Motorshot](https://github.com/Heeseon06/Motorshot_frontend_Project)**  
   오토바이 헬멧 미착용 및 위협운전 탐지 컴퓨터비전 프로젝트 (2024.09)
