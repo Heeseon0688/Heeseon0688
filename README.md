@@ -61,7 +61,7 @@
 
 - **[Improving Spatial Reuse of Wireless LANs Using Contextual Bandits](https://ieeexplore.ieee.org/document/10309995)**  
   **Contextual Bandits을 이용한 무선랜 공간 재사용 향상 방법**  
-  *IEEE Transactions on Wireless Communications*, 2023
+  *IEEE Transactions on Wireless Communications*, 2024
 
 - **[Improving Spatial Reuse of Wireless LANs using Multi-Armed Bandit](https://dcollection.sogang.ac.kr/dcollection/srch/srchDetail/000000076357?navigationSize=10&query=%2B%28%2B%28publisher_srch%3A%EC%84%9C%EA%B0%95%EB%8C%80%ED%95%99%EA%B5%90%2B%EC%A2%85%EA%B5%90%EC%97%B0%EA%B5%AC%EC%86%8C%29%29&insCode=211029&pageSize=10&searchWhere1=publisher_srch&sortDir=desc&searchTotalCount=0&pageNum=2311&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EB%B0%9C%ED%96%89%EC%B2%98%3A%E8%A5%BF%E6%B1%9F%E5%A4%A7%E5%AD%B8%E6%A0%A1+%E5%AE%97%E6%95%8E%E7%A1%8F%E7%A9%B6%E6%89%80%5D&searchKeyWord1=%E8%A5%BF%E6%B1%9F%E5%A4%A7%E5%AD%B8%E6%A0%A1+%E5%AE%97%E6%95%8E%E7%A1%8F%E7%A9%B6%E6%89%80)**  
   **Multi-armed Bandit을 이용한 무선랜 공간 재사용 향상 방법**  
