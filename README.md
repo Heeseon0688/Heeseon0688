@@ -57,7 +57,7 @@
 
 </br>
 
-## 📚 연구 및 논문 저술 📚
+## 📚 연구 및 논문 발표 📚
 
 - **[Improving Spatial Reuse of Wireless LANs Using Contextual Bandits](https://ieeexplore.ieee.org/document/10309995)**  
   **Contextual Bandits을 이용한 무선랜 공간 재사용 향상 방법**  
