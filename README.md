@@ -10,7 +10,6 @@
 
 <div align="center">
   <a href="https://hi-nomad.tistory.com/"><img src="https://img.shields.io/badge/Tistory-블로그-000000?style=round-square&logo=tistory&logoColor=white"/></a>
-  <a href="https://fortunate-citipati-dd4.notion.site/c151e657e352446fb3afc8809c69d91a"><img src="https://img.shields.io/badge/Notion-포트폴리오-000000?style=round-square&logo=Notion&logoColor=white"/></a>
 </div>
 
 </br>
