@@ -2,7 +2,7 @@
 
 <p style="margin-top: -20px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Heeseon's+GitHub!👋" alt="Typing SVG">
+    <img src="./assets/typing.svg" alt="Welcome to Heeseon's GitHub! 👋">
   </a>
 </p>
 
@@ -69,8 +69,8 @@
 ## 📊 My Github Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heeseon0688&theme=transparent&show_icons=true&&hide_border=true" alt="GitHub stats" style="width: 54%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeseon0688&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" style="width: 45%;">
+  <img src="https://github-stats-extended.vercel.app/api?username=heeseon0688&theme=transparent&show_icons=true&hide_border=true" alt="GitHub stats" width="54%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=heeseon0688&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="45%">
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=80&section=footer)
