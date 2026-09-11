@@ -55,7 +55,7 @@ C/C++·Linux 기반 시스템 소프트웨어 개발과 C/C++·Python 기반 AI�
 
 | Category | Tech |
 | --- | --- |
-| **CORE / SYSTEM** | C · C++ · Python · Linux · STM32 · Qt · LVGL |
+| **CORE / SYSTEM** | C · C++ · Python · Linux · STM32 · Qt · LVGL · TouchGFX |
 | **AI / DATA** | PyTorch · TensorFlow · Keras · scikit-learn · Pandas · NumPy · OpenCV |
 | **WEB / APPLICATION** | FastAPI · Node.js · React · React Native · HTML · CSS · JavaScript · PHP |
 | **DATABASE** | MySQL · Oracle · MongoDB |
