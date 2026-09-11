@@ -35,7 +35,7 @@ C/C++·Linux 기반 시스템 소프트웨어 개발과 C/C++·Python 기반 AI�
 ## 💻 Selected Projects
 
 - **[Jetson Nano를 이용한 실시간 도로 및 주변 상황 인식 시스템](https://github.com/Heeseon0688/Future_Automobile_Project)**  
-  Jetson Nano에서 YOLOv7 및 StrongSORT 기반의 실시간 도로 및 주변 환경 인식 시스템을 개발하고,  
+  Jetson Nano에서 YOLOv7-tiny·YOLOv5s 및 StrongSORT 기반의 실시간 도로 및 주변 환경 인식 시스템을 개발하고,  
   GPS를 연동해 탐지된 객체의 위치를 지도에 시각화 (2022.12)
   - **미래자동차 인력양성 산학 프로젝트 성과발표회 - 우수상**
 - **[Motorshot](https://github.com/Heeseon0688/Motorshot_backend_Project)**  
