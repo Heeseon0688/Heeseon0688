@@ -8,8 +8,8 @@
 
 ## 👋 About Me
 
-**Heeseon Im | Software Engineer**  
-C/C++ · Python · Linux | AI · Computer Vision · Wireless Networks
+### Heeseon Im | Software Engineer
+### C/C++ · Python · Linux | AI · Computer Vision · Wireless Networks
 
 C/C++·Linux 기반 시스템 소프트웨어 개발과 Python 기반 AI·무선네트워크 연구 경험을 보유하고 있습니다.  
 강화학습 기반 WLAN 공간 재사용 연구, 컴퓨터 비전 및 시스템 SW 개발을 수행했습니다.
