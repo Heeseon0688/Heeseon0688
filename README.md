@@ -2,15 +2,17 @@
 
 <p style="margin-top: -20px;">
   <a href="https://git.io/typing-svg">
-    <img src="./assets/typing.svg" alt="Welcome to Heeseon's GitHub! 👋">
+    <img src="./assets/typing.svg" alt="Heeseon Im | Software Engineer">
   </a>
 </p>
 
 ## 🌟 About Me 🌟
 
-<div align="center">
-  <a href="https://hi-nomad.tistory.com/"><img src="https://img.shields.io/badge/Tistory-블로그-000000?style=round-square&logo=tistory&logoColor=white"/></a>
-</div>
+**Heeseon Im | Software Engineer**  
+C/C++ · Python · Linux | AI · Computer Vision · Wireless Networks
+
+C/C++·Linux 기반 시스템 소프트웨어 개발과 Python 기반 AI·무선네트워크 연구 경험을 보유하고 있습니다.  
+강화학습 기반 WLAN 공간 재사용 연구, 컴퓨터 비전 및 시스템 SW 개발을 수행했습니다.
 
 </br>
 
@@ -63,6 +65,12 @@
   - **Google Play 다운로드 링크:** **[플랜업( PLAN UP )](https://play.google.com/store/apps/details?id=com.PlanUP&pli=1)**
 - **[Mind Glow](https://github.com/Heeseon0688/MindGlow_Project)**  
   서울시 정신건강 복지 센터 안내 및 상담사와 실시간 채팅 플랫폼 서비스 (2024.05)
+
+</br>
+
+## 🔗 Links 🔗
+
+**[Portfolio](https://heeseon0688.github.io/)** · **[GitHub](https://github.com/Heeseon0688)** · **[Tech Blog](https://hi-nomad.tistory.com/)**
 
 </br>
 
