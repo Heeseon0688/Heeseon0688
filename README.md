@@ -59,8 +59,8 @@ C/C++·Linux 기반 시스템 소프트웨어 개발과 C/C++·Python 기반 AI�
 | **WEB / APPLICATION** | FastAPI · Node.js · React · React Native · HTML · CSS · JavaScript · PHP |
 | **DATABASE** | MySQL · Oracle · MongoDB |
 | **GAME / INTERACTIVE** | Unreal Engine · C++ |
-| **DEV / PLATFORM** | Git · GitHub · Docker · Kubernetes · npm · YAML · Postman · PuTTY |
-| **TOOLS / ENVIRONMENT** | VS Code · PyCharm · Jupyter · Colab · Anaconda · Eclipse · Spyder · Sourcetree |
+| **DEV / PLATFORM** | Git · GitHub · Sourcetree · Docker · Kubernetes · npm · YAML · Postman · PuTTY |
+| **TOOLS / ENVIRONMENT** | VS Code · PyCharm · Eclipse · Spyder · Jupyter · Colab · Anaconda |
 | **COLLABORATION / DESIGN** | Slack · Discord · Zoom · Figma |
 
 </br>
