@@ -14,7 +14,7 @@
 
 </br>
 
-## 🔨 Teck Stack  🔨
+## 🔨 Tech Stack  🔨
 
 <p>  
 
@@ -32,24 +32,6 @@
 
 </br>
 
-## 💻 주요 프로젝트 💻
-
-- **[Motorshot](https://github.com/Heeseon0688/Motorshot_frontend_Project)**  
-  오토바이 헬멧 미착용 및 위협운전 탐지 컴퓨터비전 프로젝트 (2024.09)
-- **[의사소통 AI챗봇](https://github.com/Heeseon0688/DoctorChat_frontend_Project)**  
-  바쁜 일상 속에서 병원을 방문할 시간이 없거나, 어느 병원에 가야 할지 고민하는 사용자들을 위한 의료 상담 챗봇 (2024.08)
-- **[PLAN UP](https://github.com/Heeseon0688/PlanUP_frontend_Project)**  
-  취업 준비생을 위한 일정관리 애플리케이션 (2024.07)
-  - 고용노동부 공공데이터 공모전 참가 - 서비스 개발부문 1차 합격
-  - **Google Play 다운로드 링크:** **[플랜업( PLAN UP )](https://play.google.com/store/apps/details?id=com.PlanUP&pli=1)**
-- **[Mind Glow](https://github.com/Heeseon0688/MindGlow_Project)**  
-  서울시 정신건강 복지 센터 안내 및 상담사와 실시간 채팅 플랫폼 서비스 (2024.05)
-- **[Jetson Nano를 이용한 실시간 도로 및 주변 상황 인식 시스템](https://github.com/Heeseon0688/Future_Automobile_Project)**
-  Jetson Nano를 이용한 YOLO 및 StrongSORT 기반의 실시간 도로 및 주변 환경 인식 시스템을 개발 (2022.12)
-  - **미래자동차 인력양성 산학 프로젝트 성과발표회 - 우수상**
-
-</br>
-
 ## 📚 연구 및 논문 발표 📚
 
 - **[Improving Spatial Reuse of Wireless LANs Using Contextual Bandits](https://ieeexplore.ieee.org/document/10309995)**  
@@ -63,6 +45,24 @@
 - **[A Multi-channel-based Transmit Power Allocation Method for Improving Spatial Reuse in Dense Wireless LANs](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11047696)**  
   **고밀도 무선랜 환경에서 공간 재사용 향상을 위한 멀티채널 기반 전송 파워 할당 방법**  
   *한국통신학회*, 2022
+
+</br>
+
+## 💻 주요 프로젝트 💻
+
+- **[Jetson Nano를 이용한 실시간 도로 및 주변 상황 인식 시스템](https://github.com/Heeseon0688/Future_Automobile_Project)**  
+  Jetson Nano를 이용한 YOLO 및 StrongSORT 기반의 실시간 도로 및 주변 환경 인식 시스템을 개발 (2022.12)
+  - **미래자동차 인력양성 산학 프로젝트 성과발표회 - 우수상**
+- **[Motorshot](https://github.com/Heeseon0688/Motorshot_frontend_Project)**  
+  오토바이 헬멧 미착용 및 위협운전 탐지 컴퓨터비전 프로젝트 (2024.09)
+- **[의사소통 AI챗봇](https://github.com/Heeseon0688/DoctorChat_frontend_Project)**  
+  바쁜 일상 속에서 병원을 방문할 시간이 없거나, 어느 병원에 가야 할지 고민하는 사용자들을 위한 의료 상담 챗봇 (2024.08)
+- **[PLAN UP](https://github.com/Heeseon0688/PlanUP_frontend_Project)**  
+  취업 준비생을 위한 일정관리 애플리케이션 (2024.07)
+  - 고용노동부 공공데이터 공모전 참가 - 서비스 개발부문 1차 합격
+  - **Google Play 다운로드 링크:** **[플랜업( PLAN UP )](https://play.google.com/store/apps/details?id=com.PlanUP&pli=1)**
+- **[Mind Glow](https://github.com/Heeseon0688/MindGlow_Project)**  
+  서울시 정신건강 복지 센터 안내 및 상담사와 실시간 채팅 플랫폼 서비스 (2024.05)
 
 </br>
 
