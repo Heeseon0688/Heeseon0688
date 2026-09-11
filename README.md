@@ -70,7 +70,7 @@ C/C++·Linux 기반 시스템 소프트웨어 개발과 Python 기반 AI·무선
 
 ## 🔗 Links 🔗
 
-**[Portfolio](https://heeseon0688.github.io/)** · **[GitHub](https://github.com/Heeseon0688)** · **[Tech Blog](https://hi-nomad.tistory.com/)**
+**[Portfolio](https://heeseon0688.github.io/)** · **[Tech Blog](https://hi-nomad.tistory.com/)**
 
 </br>
 
