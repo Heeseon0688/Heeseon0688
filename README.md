@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## 🌟 About Me 🌟
+## 👋 About Me
 
 **Heeseon Im | Software Engineer**  
 C/C++ · Python · Linux | AI · Computer Vision · Wireless Networks
@@ -16,7 +16,7 @@ C/C++·Linux 기반 시스템 소프트웨어 개발과 Python 기반 AI·무선
 
 </br>
 
-## 📚 연구 및 논문 발표 📚
+## 📚 Research & Publications
 
 - **[Improving Spatial Reuse of Wireless LANs Using Contextual Bandits](https://ieeexplore.ieee.org/document/10309995)**  
   **Contextual Bandits을 이용한 무선랜 공간 재사용 향상 방법**  
@@ -32,12 +32,12 @@ C/C++·Linux 기반 시스템 소프트웨어 개발과 Python 기반 AI·무선
 
 </br>
 
-## 💻 주요 프로젝트 💻
+## 💻 Selected Projects
 
 - **[Jetson Nano를 이용한 실시간 도로 및 주변 상황 인식 시스템](https://github.com/Heeseon0688/Future_Automobile_Project)**  
   Jetson Nano를 이용한 YOLO 및 StrongSORT 기반의 실시간 도로 및 주변 환경 인식 시스템을 개발 (2022.12)
   - **미래자동차 인력양성 산학 프로젝트 성과발표회 - 우수상**
-- **[Motorshot](https://github.com/Heeseon0688/Motorshot_frontend_Project)**  
+- **[Motorshot](https://github.com/Heeseon0688/Motorshot_backend_Project)**  
   오토바이 헬멧 미착용 및 위협운전 탐지 컴퓨터비전 프로젝트 (2024.09)
 - **[의사소통 AI챗봇](https://github.com/Heeseon0688/DoctorChat_frontend_Project)**  
   바쁜 일상 속에서 병원을 방문할 시간이 없거나, 어느 병원에 가야 할지 고민하는 사용자들을 위한 의료 상담 챗봇 (2024.08)
@@ -50,7 +50,7 @@ C/C++·Linux 기반 시스템 소프트웨어 개발과 Python 기반 AI·무선
 
 </br>
 
-## 🔨 Tech Stack  🔨
+## 🛠 Tech Stack
 
 <p>  
 
@@ -68,7 +68,7 @@ C/C++·Linux 기반 시스템 소프트웨어 개발과 Python 기반 AI·무선
 
 </br>
 
-## 🔗 Links 🔗
+## 🔗 Links
 
 **[Portfolio](https://heeseon0688.github.io/)** · **[Tech Blog](https://hi-nomad.tistory.com/)**
 
