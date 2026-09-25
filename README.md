@@ -48,6 +48,8 @@ C/C++·Linux 기반 시스템 소프트웨어 개발과 C/C++·Python 기반 AI�
   - **Google Play 다운로드 링크:** **[플랜업( PLAN UP )](https://play.google.com/store/apps/details?id=com.PlanUP&pli=1)**
 - **[Mind Glow](https://github.com/Heeseon0688/MindGlow_Project)**  
   서울시 정신건강 복지 센터 안내 및 상담사와 실시간 채팅 플랫폼 서비스 (2024.05)
+- **[내 연구문서 탐색을 돕는 AI Assistant](https://github.com/Heeseon0688/research-document-ai-assistant)**  
+  FastAPI·React·ChromaDB 기반의 근거 출처형 연구문서 RAG assistant (2026.09)
 
 </br>
 
